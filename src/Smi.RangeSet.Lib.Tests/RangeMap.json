@@ -1,0 +1,17 @@
+﻿[
+	{ "Key": { "Low": 3000, "High": 3059 }, "Value": 6 },
+	{ "Key": { "Low": 3600, "High": 3699 }, "Value": 6 },
+	{ "Key": { "Low": 3800, "High": 3889 }, "Value": 6 },
+	{ "Key": { "Low": 3400, "High": 3499 }, "Value": 5 },
+	{ "Key": { "Low": 3700, "High": 3799 }, "Value": 5 },
+	{ "Key": { "Low": 3528, "High": 3589 }, "Value": 7 },
+	{ "Key": { "Low": 3890, "High": 3899 }, "Value": 9 },
+	{ "Key": { "Low": 4000, "High": 4999 }, "Value": 1 },
+	{ "Key": { "Low": 5000, "High": 5099 }, "Value": 4 },
+	{ "Key": { "Low": 5620, "High": 5999 }, "Value": 4 },
+	{ "Key": { "Low": 5100, "High": 5599 }, "Value": 2 },
+	{ "Key": { "Low": 5600, "High": 5609 }, "Value": 2 },
+	{ "Key": { "Low": 5610, "High": 5619 }, "Value": 2 },
+	{ "Key": { "Low": 6011, "High": 6011 }, "Value": 8 },
+	{ "Key": { "Low": 6015, "High": 6015 }, "Value": 60 }
+]
