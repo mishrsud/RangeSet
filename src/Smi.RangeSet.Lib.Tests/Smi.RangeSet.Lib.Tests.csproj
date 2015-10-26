@@ -78,12 +78,6 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Smi.RangeSet.Lib\Smi.RangeSet.Lib.csproj">
-      <Project>{3ff5b97d-ae5b-4479-8f96-b88229f1a924}</Project>
-      <Name>Smi.RangeSet.Lib</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>

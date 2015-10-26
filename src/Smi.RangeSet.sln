@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smi.RangeSet.Lib", "Smi.RangeSet.Lib\Smi.RangeSet.Lib.csproj", "{3FF5B97D-AE5B-4479-8F96-B88229F1A924}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smi.RangeSet.Lib.Tests", "Smi.RangeSet.Lib.Tests\Smi.RangeSet.Lib.Tests.csproj", "{0982C39D-7E5B-4189-AE3B-A1112025A8E1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{6D36C5B5-83EB-40C4-BA5F-B80FF4F76CCF}"
@@ -14,20 +12,22 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{6D36C5
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smi.RangeSet.Lib", "Smi.RangeSet.Lib\Smi.RangeSet.Lib.csproj", "{3FF5B97D-AE5B-4479-8F96-B88229F1A924}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3FF5B97D-AE5B-4479-8F96-B88229F1A924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3FF5B97D-AE5B-4479-8F96-B88229F1A924}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3FF5B97D-AE5B-4479-8F96-B88229F1A924}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3FF5B97D-AE5B-4479-8F96-B88229F1A924}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0982C39D-7E5B-4189-AE3B-A1112025A8E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0982C39D-7E5B-4189-AE3B-A1112025A8E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0982C39D-7E5B-4189-AE3B-A1112025A8E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0982C39D-7E5B-4189-AE3B-A1112025A8E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FF5B97D-AE5B-4479-8F96-B88229F1A924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF5B97D-AE5B-4479-8F96-B88229F1A924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF5B97D-AE5B-4479-8F96-B88229F1A924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF5B97D-AE5B-4479-8F96-B88229F1A924}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
